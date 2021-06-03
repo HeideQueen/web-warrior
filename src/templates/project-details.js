@@ -17,4 +17,4 @@ function ProjectDetails() {
   )
 }
 
-export default project - details
+export default ProjectDetails
